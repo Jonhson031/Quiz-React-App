@@ -5,6 +5,9 @@ This project allows users to answer multiple-choice questions and see their fina
 
 The goal of this project was to practice React fundamentals and work with several important hooks such as **useState**, **useEffect**, **useRef**, and **useCallback**.
 
+## Live Demo
+https://maksym-yaremko-quiz-app.netlify.app/
+
 ## Features
 
 - Multiple choice quiz questions
